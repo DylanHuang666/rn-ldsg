@@ -1,0 +1,3 @@
+[submodule "protobuf/AppProtocol"]
+	path = protobuf/AppProtocol
+	url = http://42.194.189.199:3000/protocol/AppProtocol.git
